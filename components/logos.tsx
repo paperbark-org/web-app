@@ -5,12 +5,10 @@ import { containerVariants, itemVariants } from "@/lib/animation-variants";
 import TextBlur from "./ui/text-blur";
 
 const logos = [
-  { href: "https://nextjs.org", src: "/nextjs.svg", alt: "Next.js Logo" },
-  { href: "https://notion.so", src: "/notion.svg", alt: "Notion Logo" },
-  { href: "https://resend.com", src: "/resend.svg", alt: "Resend Logo" },
-  { href: "https://upstash.com", src: "/upstash.svg", alt: "Upstash Logo" },
-  { href: "https://ui.shadcn.com", src: "/shadcn.svg", alt: "shadcn Logo" },
-  { href: "https://vercel.com", src: "/vercel.svg", alt: "Vercel Logo" },
+  { href: "https://hoozu.com/", src: "/hoozu.png", alt: "Hoozu Logo" },
+  { href: "https://www.sticki.com.au/", src: "/sticki.png", alt: "Sticki Logo" },
+  { href: "https://adcore.com/", src: "/adcore.png", alt: "Adcore Logo" }
+
 ];
 
 export default function Logos() {
