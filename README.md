@@ -1,4 +1,4 @@
-<h1 align="center">Next.js + Notion — Wailtist Template</h1>
+<h1 align="center">Paperbark — Your Digital Solution</h1>
 
 <p align="center">
 
@@ -11,18 +11,11 @@
 
 </p>
 
-![GithubBanner](./app/opengraph-image.png)
+A modern digital platform bringing innovative solutions to your fingertips. 
 
-This is a template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain.
+**Persona Segmentation. Competitor Intelligence. Creator Matchmaking.**
 
-The UI is built using a mix of shadcn/ui, Magic UI and Tailwind CSS.
-
-**Demo:** [https://nextjs-notion-waitlist.vercel.app](https://nextjs-notion-waitlist.vercel.app)
-
-**Sample Database** ([Link](https://lakshaybhushan.notion.site/15e45b25609e80408f83ebb97b45882b?v=c949c24dff4a42b3baa31bfb3e8a3354))
-<a href="https://lakshaybhushan.notion.site/15e45b25609e80408f83ebb97b45882b?v=c949c24dff4a42b3baa31bfb3e8a3354" target="_blank" rel="noopener noreferrer">
- <img src ="./public/sample-db.png">
-</a>
+We know your customers better than you do.
 
 ## Features
 
