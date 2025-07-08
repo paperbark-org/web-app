@@ -11,9 +11,9 @@ const GeistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Paperbark — Your Digital Solution",
+  title: "Paperbark — We know your customers better than you do.",
   description:
-    "A modern digital platform bringing innovative solutions to your fingertips. Join our waitlist for early access.",
+    "Persona Segmentation. Competitor Intelligence. Creator Matchmaking.",
 };
 
 export default function RootLayout({
@@ -27,7 +27,7 @@ export default function RootLayout({
         <link rel="icon" href="/icon.png" type="image/png" />
       </head>
       <body className={`${GeistMono.variable} font-mono`}>
-        <meta
+        <meta 
           property="og:site_name"
           content="Paperbark — We know your customers better than you do"
         />
