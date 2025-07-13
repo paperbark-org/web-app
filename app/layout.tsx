@@ -13,7 +13,7 @@ const GeistMono = localFont({
 export const metadata: Metadata = {
   title: "Paperbark — social-media intelligence like no other.",
   description:
-    "Persona Segmentation. Competitor Intelligence. Creator Matchmaking.",
+    "Persona Segmentation. Influencer Matchmaking.  AI Growth Strategist.",
 };
 
 export default function RootLayout({

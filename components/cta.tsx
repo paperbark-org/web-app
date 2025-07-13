@@ -22,7 +22,7 @@ export default function CTA() {
         </div>
       </motion.div>
 
-      <motion.div variants={itemVariants} className="flex items-center justify-center">
+      {/* <motion.div variants={itemVariants} className="flex items-center justify-center">
         <div className="flex items-center justify-center">
           <Image
             src="/paperbark-logo.svg"
@@ -33,7 +33,7 @@ export default function CTA() {
             priority
           />
         </div>
-      </motion.div>
+      </motion.div> */}
 
       <motion.div variants={itemVariants}>
         <TextBlur
@@ -45,7 +45,7 @@ export default function CTA() {
       <motion.div variants={itemVariants}>
         <TextBlur
           className="mx-auto max-w-1xl text-center text-lg text-secondary-text leading-relaxed"
-          text="Persona Segmentation. Competitor Intelligence. Creator Matchmaking."
+          text="Persona Segmentation. Influencer Matchmaking.  AI Growth Strategist."
           duration={0.8}
         />
       </motion.div>
@@ -56,10 +56,10 @@ export default function CTA() {
             <div className="h-2 w-2 bg-green-500 rounded-full animate-pulse"></div>
             <span>Early Access Available</span>
           </div>
-          <div className="hidden sm:block text-secondary-text">•</div>
-          <div className="flex items-center space-x-2">
-            <span>No Credit Card Required</span>
-          </div>
+          {/* <div className="hidden sm:block text-secondary-text">•</div> */}
+          {/* <div className="flex items-center space-x-2"> */}
+            {/* <span>No Credit Card Required</span> */}
+          {/* </div> */}
         </div>
       </motion.div>
     </motion.div>

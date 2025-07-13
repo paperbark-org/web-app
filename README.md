@@ -13,7 +13,7 @@
 
 A modern digital platform bringing innovative solutions to your fingertips. 
 
-**Persona Segmentation. Competitor Intelligence. Creator Matchmaking.**
+**Persona Segmentation. Influencer Matchmaking.  AI Growth Strategist.**
 
 social-media intelligence like no other.
 

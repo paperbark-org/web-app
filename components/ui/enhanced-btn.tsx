@@ -18,7 +18,7 @@ const buttonVariants = cva(
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         expandIcon:
-          "group relative border border-input bg-gray-100 text-gray-900 hover:bg-gray-200 hover:text-gray-800",
+          "group relative border border-input bg-brown900 text-white hover:bg-brown900/90 hover:text-white",
         ringHover:
           "bg-primary text-primary-foreground transition-all duration-300 hover:bg-primary/90 hover:ring-2 hover:ring-primary/90 hover:ring-offset-2",
         shine:
