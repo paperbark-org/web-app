@@ -20,14 +20,14 @@ export default function Logos() {
       animate="visible">
       <motion.div variants={itemVariants}>
         <TextBlur
-          className="text-center text-2xl font-medium tracking-tight text-zinc-200 md:text-3xl"
+          className="text-center text-2xl font-medium tracking-tight text-zinc-800 md:text-3xl"
           text="Supported by"
         />
       </motion.div>
 
       {/* <motion.div variants={itemVariants}>
         <TextBlur
-          className="text-center text-base text-zinc-300 sm:text-lg"
+          className="text-center text-base text-zinc-700 sm:text-lg"
           text="Simple and powerful tools that help you build faster"
           duration={0.8}
         />

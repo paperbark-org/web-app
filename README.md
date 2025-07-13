@@ -15,7 +15,7 @@ A modern digital platform bringing innovative solutions to your fingertips.
 
 **Persona Segmentation. Competitor Intelligence. Creator Matchmaking.**
 
-We know your customers better than you do.
+social-media intelligence like no other.
 
 ## Features
 

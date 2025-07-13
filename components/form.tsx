@@ -59,7 +59,7 @@ export default function Form({
       </motion.div>
       <motion.div
         variants={itemVariants}
-        className="mt-4 flex w-full items-center justify-center gap-1 text-muted-foreground">
+        className="mt-4 flex w-full items-center justify-center gap-1 text-secondary-text">
         <p className="text-center">For any queries, reach out at <Link href="mailto:hello@paperbark.app"><b>bryce@paperbark.ai</b></Link></p>
       </motion.div>
     </motion.div>

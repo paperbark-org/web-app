@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100" height="100" rx="4" fill="white"/>
+<rect width="100" height="100" rx="4" fill="url(#pattern0_27_3294)" fill-opacity="0.1"/>
+<defs>
+<pattern id="pattern0_27_3294" patternUnits="userSpaceOnUse" viewBox="3242 -2425 44.4643 44.4643" width="11.116071343421936%" height="11.116071343421936%" patternContentUnits="objectBoundingBox">
+<rect x="3242" y="-2425" width="12.7041" height="12.7041" rx="4" fill="#CC9A5B"/>
+</pattern></defs>
+</svg>

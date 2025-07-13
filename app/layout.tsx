@@ -11,7 +11,7 @@ const GeistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Paperbark — We know your customers better than you do.",
+  title: "Paperbark — social-media intelligence like no other.",
   description:
     "Persona Segmentation. Competitor Intelligence. Creator Matchmaking.",
 };
@@ -22,14 +22,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/icon.png" type="image/png" />
       </head>
-      <body className={`${GeistMono.variable} font-mono`}>
+      <body className={`${GeistMono.variable} font-mono bg-paperbark`}>
         <meta 
           property="og:site_name"
-          content="Paperbark — We know your customers better than you do"
+          content="Paperbark — social-media intelligence like no other"
         />
         <meta
           property="og:url"
