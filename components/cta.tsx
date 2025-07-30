@@ -38,7 +38,7 @@ export default function CTA() {
       <motion.div variants={itemVariants}>
         <TextBlur
           className="text-center text-2xl font-bold tracking-tight sm:text-6xl text-brown900"
-          text="Marketing Intelligence like No Other"
+          text="Marketing Intelligence Like No Other"
         />
       </motion.div>
 

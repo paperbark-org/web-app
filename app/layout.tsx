@@ -11,7 +11,7 @@ const GeistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Paperbark — Marketing Intelligence like No Other",
+  title: "Paperbark — Marketing Intelligence Like No Other",
   description:
     "Social Media Analytics - AI Marketing Strategist",
 };
@@ -29,7 +29,7 @@ export default function RootLayout({
       <body className={`${GeistMono.variable} font-mono bg-paperbark`}>
         <meta 
           property="og:site_name"
-          content="Paperbark — Marketing Intelligence like No Other"
+          content="Paperbark — Marketing Intelligence Like No Other"
         />
         <meta
           property="og:url"

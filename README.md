@@ -15,7 +15,7 @@ A modern digital platform bringing innovative solutions to your fingertips.
 
 **Social Media Analytics - AI Marketing Strategist**
 
-Marketing Intelligence like No Other
+Marketing Intelligence Like No Other
 
 ## Features
 
