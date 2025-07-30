@@ -38,14 +38,14 @@ export default function CTA() {
       <motion.div variants={itemVariants}>
         <TextBlur
           className="text-center text-2xl font-bold tracking-tight sm:text-6xl text-brown900"
-          text="social-media intelligence like no other"
+          text="Marketing Intelligence like No Other"
         />
       </motion.div>
 
       <motion.div variants={itemVariants}>
         <TextBlur
           className="mx-auto max-w-1xl text-center text-lg text-secondary-text leading-relaxed"
-          text="Persona Segmentation. Influencer Matchmaking.  AI Growth Strategist."
+          text="Social Media Analytics - AI Marketing Strategist"
           duration={0.8}
         />
       </motion.div>

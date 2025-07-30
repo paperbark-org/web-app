@@ -13,9 +13,9 @@
 
 A modern digital platform bringing innovative solutions to your fingertips. 
 
-**Persona Segmentation. Influencer Matchmaking.  AI Growth Strategist.**
+**Social Media Analytics - AI Marketing Strategist**
 
-social-media intelligence like no other.
+Marketing Intelligence like No Other
 
 ## Features
 
