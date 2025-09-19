@@ -13,7 +13,7 @@
 
 A modern digital platform bringing innovative solutions to your fingertips. 
 
-**Social Media Analytics - AI Marketing Strategist**
+**Social Media Analytics - AI Marketing Agents**
 
 Marketing Intelligence Like No Other
 

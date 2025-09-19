@@ -45,7 +45,7 @@ export default function CTA() {
       <motion.div variants={itemVariants}>
         <TextBlur
           className="mx-auto max-w-1xl text-center text-lg text-secondary-text leading-relaxed"
-          text="Social Media Analytics - AI Marketing Strategist"
+          text="Social Media Analytics - AI Marketing Agents"
           duration={0.8}
         />
       </motion.div>
